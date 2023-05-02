@@ -1,0 +1,1 @@
+{"Quimica":2,"Informatica":2,"Administração":2}
